@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373119407814",
+    "project_id": "bolekproject",
+    "storage_bucket": "bolekproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373119407814:android:6d2fcc51c1f7c9b571a9c7",
+        "android_client_info": {
+          "package_name": "com.example.bolekproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373119407814-igg4pffiv9fv7he946lnjo59o6gja5np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolekproject",
+            "certificate_hash": "ff1413d4c4f7ec70bc130d357d2d45e2015acd04"
+          }
+        },
+        {
+          "client_id": "373119407814-st4tt6sb9sbjofenr0hi625lk34cusop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6WkL2hywkaiUJZSnRJer0si-iyvigHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373119407814-st4tt6sb9sbjofenr0hi625lk34cusop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

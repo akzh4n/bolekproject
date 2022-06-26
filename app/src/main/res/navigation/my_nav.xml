@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_nav.xml"
+    app:startDestination="@id/homeActivity">
+
+    <activity
+        android:id="@+id/homeActivity"
+        android:name="com.example.bolekproject.HomeActivity"
+        android:label="HomeActivity" />
+    <activity
+        android:id="@+id/aboutusactivity"
+        android:name="com.example.bolekproject.AboutUsActivity"
+        android:label="AboutUsActivity" />
+    <activity
+        android:id="@+id/qractivity"
+        android:name="com.example.bolekproject.QRActivity"
+        android:label="UserProfileActivity" />
+</navigation>
