@@ -87,7 +87,7 @@ public class QRActivity extends AppCompatActivity {
 
         }
         else{
-            Toast.makeText(getApplicationContext(), "Извините пройзошла ошибка, попробуйте пересканировать!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Извините произошла ошибка, попробуйте пересканировать!", Toast.LENGTH_SHORT).show();
 
         }
     }

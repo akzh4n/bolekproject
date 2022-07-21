@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 31
 
     dataBinding{
         enabled=true
@@ -17,7 +17,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.bolekproject"
-        minSdk 31
+        minSdk 28
         targetSdk 32
         versionCode 1
         versionName "1.0"
