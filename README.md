@@ -1,13 +1,13 @@
 # Bolek Project
 
 
-Bolek - is a FinTech hackathon app from Terricon Valley in Karaganda, the aim of the project is to showcase an innovative idea and solution for paying for transport or possibly purchases using a mobile account.
+Bolek App - is a FinTech hackathon app from Terricon Valley in Karaganda, the aim of the project is to showcase an innovative idea and solution for paying for transport or possibly purchases using a mobile account.
 
 BY: KALIMATOV AKZHAN
 
 
 
-# Splash Screen and Login Pages
+## Splash Screen and Login Pages
 
 <p align="center">
   <img src="https://github.com/manste1n/bolekproject/blob/master/assets/1.png" width="200" title="Splash Screen">
@@ -22,7 +22,7 @@ In the login page, only the option to log in using a phone number has been added
 
 
 
-# Code Auth
+## Code Auth
 
 <p align="center">
   <img src="https://github.com/manste1n/bolekproject/blob/master/assets/3.png" width="200" title="Code Auth">
@@ -33,7 +33,7 @@ Once the user has entered their number to log in, and if this number is in the d
 
 
 
-# Cabinet, Info, QR Pages
+## Cabinet, Info, QR Pages
 
 <p align="center">
   <img src="https://github.com/manste1n/bolekproject/blob/master/assets/4.png" width="200" title="Cabinet">
@@ -65,6 +65,6 @@ The most important part and added feature to improve the lives of users and peop
 
 Thanks for attention!
 
-Follow me for support! :heart:
+Follow me for support 💙
 
 
