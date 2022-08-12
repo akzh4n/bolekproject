@@ -60,7 +60,7 @@ The most important part and added feature to improve the lives of users and peop
 
 
 
-&nbspc
+&nbsp
 
 
 Thanks for attention!
